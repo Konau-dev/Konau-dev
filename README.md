@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🤙🏼 Olá, eu sou o Leo  
-### Desenvolvedor Back-end 🚀  
+
 
 <div align="center">
 

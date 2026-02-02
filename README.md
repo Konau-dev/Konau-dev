@@ -58,3 +58,10 @@ Tenho perfil curioso, gosto de entender o *porquê* das coisas e transformar con
 _"Evolução constante, código limpo e aprendizado diário."_
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%24+whoami;Leo+-+Back-end+Developer;%24+stack;PHP+%7C+Laravel+%7C+PostgreSQL+%7C+Docker;%24+status;always+learning" />
+
+</div>
+

@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Konau-dev/Konau-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤙🏼 Olá, eu sou o Leo  
+### Desenvolvedor Back-end 🚀  
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/streles_sz/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F">
+</a>
+<a href="mailto:konauta.tlgs@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836">
+</a>
+<a href="https://www.linkedin.com/in/leandrokonaudev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 Sobre mim
+Sou desenvolvedor **Back-end**...👨🏽‍💻  
+Busco evolução constante com atenção especial a **arquitetura**, **boas práticas** e **qualidade de código**.
+
+Tenho perfil curioso, gosto de entender o *porquê* das coisas e transformar conceitos técnicos em soluções bem estruturadas.
+
+---
+
+## ⚙️ Linguagens & Tecnologias
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,redis,docker,git,linux,html,css,js&theme=dark" />
+
+</div>
+
+---
+
+## 🛠️ O que gosto de construir
+- APIs REST bem organizadas
+- Sistemas de autenticação e autorização (JWT, roles)
+- Arquitetura em camadas (MVC / Service / Repository)
+- Microserviços e auditoria de eventos
+- Integrações com banco de dados
+- Automação e ferramentas CLI
+
+---
+
+## 📚 Atualmente estudando
+- Laravel
+- PostgreSQL e modelagem de dados
+- Docker
+- Redis
+- Arquitetura de software
+
+---
+
+<div align="center">
+
+_"Evolução constante, código limpo e aprendizado diário."_
+
+</div>
